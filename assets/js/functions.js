@@ -1,7 +1,7 @@
 var imageDescriptions = new Map([
     ['Super Tic-Tac-Toe.gif', 'Super-TicTacToe is a fun version of Ultimate TicTacToe with a tricky twist. You can play against a smart computer opponent and test your skills. It was made using a library called raylib in C, and it’s super fun to play!'],
     ['Digit Detect ANN.gif', 'DigitDetectANN is a computer program that learns to read numbers. It uses an artificial neural networks and the MNIST dataset. Made with OpenCV in C++, it’s my first try at making something like this.'],
-    ['Birdboidsim.gif', 'Birdboidsim is a computer program that simulates the movements of birds and fishes in a 3d enviroment. Complete with adaptable variables that can change its behaviour. This project was made with Raylib and Raygui in C++.'],
+    ['Birdoid Simulation.gif', 'Birdoidsim is a computer program that simulates the movements of birds in a 3d enviroment. Complete with adaptable variables that can change its behaviour. This project was made with Raylib and Raygui in C++.'],
     ['Tetromania.gif', 'Tetromania is my version of Tetris, an arcade game from 1984. I made it using plain HTML, CSS, and JavaScript. It looks simple, but it’s super fun and tricky. Perfect for anyone who loves puzzles!'],
     ['Bad Apple CLI.gif', 'Bad Apple CLI plays a famous video right inside the Windows command prompt, using pictures made from letters and symbols. It also has music! I used OpenCV to load the video and SFML for sound.'],
     ['Invaders.gif', 'Invaders is a game like the old-school Space Invaders from 1978. You shoot at aliens and protect your base! I made it with plain HTML, CSS, and JavaScript. It’s a fun way to relive the action of the original game in your browser.'],
@@ -10,7 +10,7 @@ var imageDescriptions = new Map([
 var imageLinks = new Map([
     ['Super Tic-Tac-Toe.gif', 'https://github.com/arslanarkananta/Super-TicTacToe'],
     ['Digit Detect ANN.gif', 'https://github.com/arslanarkananta/DigitDetectANN'],
-    ['Birdboidsim.gif', 'https://github.com/arslanarkananta/Birdboidsim'],
+    ['Birdoid Simulation.gif', 'https://github.com/arslanarkananta/Birdoidsim'],
     ['Tetromania.gif', 'https://github.com/arslanarkananta/Tetromania'],
     ['Bad Apple CLI.gif', 'https://github.com/arslanarkananta/BadAppleCLI'],
     ['Invaders.gif', 'https://github.com/arslanarkananta/Invaders'],
